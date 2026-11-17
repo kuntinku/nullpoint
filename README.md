@@ -14,4 +14,4 @@ node serve.ts
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=REFCODE&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=m88kv07r&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
