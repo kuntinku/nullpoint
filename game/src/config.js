@@ -25,7 +25,11 @@ export const PLAYER = {
 
 export const BULLET = { life: 1.5 };
 
-/** Kills in quick succession raise a multiplier that decays when you stop scoring. */
+/**
+ * Kills in quick succession raise a multiplier that decays when you stop scoring.
+ * `window` is how long a kill keeps the chain alive; `max` caps the multiplier so a
+ * long chain cannot run away with the score.
+ */
 export const COMBO = { window: 2.6, max: 8 };
 
 /** Waves to clear before the core is secured. */
